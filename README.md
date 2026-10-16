@@ -9,7 +9,7 @@ PivotPartner is an AI-powered career restart copilot for trailing spouses and ex
 Built by [Deepa Sijoy](https://linkedin.com/in/deepa-sijoy-8114b91b/) under **Borderless Labs**. Originally built for the DoraHacks "Girls Who Yap × AI" Dora Hack 2.0 hackathon (Top 50 Product Hunt launch day, Top 50 Creators).
 
 - Live app: https://pivot-partner-ai-2.onrender.com/app
-- Repo: [`Deepasijoy/pivot_partner_ai`](https://github.com/Deepasijoy/pivot_partner_ai)
+- Repo: [`Deepasijoy/pivot_partner_ai`](https://github.com/Deepasijoy/pivot_partner_ai)(This is a private repo, If you need access,please contact me.) 
 - Active branch: `multi-provider-jobs` (Render deploys from this branch, not `main`)
 
 ---
